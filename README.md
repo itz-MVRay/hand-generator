@@ -76,4 +76,5 @@ This compact generator multiplies hand crank speed using compound gears to spin 
   ---
   ## Status
   -Built for fun and future possible college project ideas.
-  -This is also built to add to my college/job resume
+
+   -This is also built to add to my college/job resume
